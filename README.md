@@ -1,3 +1,3 @@
 # Hi !
 
-[![HitCount](http://hits.dwyl.com/mckarsi/{project}.svg)](http://hits.dwyl.com/mckarsi/{project})
+[![HitCount](http://hits.dwyl.com/mckarsi/mckarsi.svg)](http://hits.dwyl.com/mckarsi/mckarsi)
