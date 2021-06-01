@@ -8,6 +8,8 @@
 ![Java](https://img.shields.io/badge/-Java-DC0000?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-EBF2F2?style=flat-square&logo=spring)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-262626?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Oracle](https://img.shields.io/badge/-Oracle-DC0000?style=flat-square&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F8F9FA?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
