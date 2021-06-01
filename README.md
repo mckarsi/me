@@ -5,11 +5,11 @@
 
 ## ⚡ Technologies
 
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-DC0000?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-EBF2F2?style=flat-square&logo=spring)
+![TypeScript](https://img.shields.io/badge/-TypeScript-262626?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F8F9FA?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
