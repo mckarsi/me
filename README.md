@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-mckarsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mckarsi/)](https://www.linkedin.com/in/mckarsi/)
-[![Gmail Badge](https://img.shields.io/badge/-karsi.mertcab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karsi.mertcan@gmail.com)](mailto:karsi.mertcan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-karsi.mertcan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karsi.mertcan@gmail.com)](mailto:karsi.mertcan@gmail.com)
 
 ## ⚡ Technologies
 
