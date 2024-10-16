@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-mckarsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mckarsi/)](https://www.linkedin.com/in/mckarsi/)
-[![Gmail Badge](https://img.shields.io/badge/-karsi.mertcan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karsi.mertcan@gmail.com)](mailto:karsi.mertcan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mertcankarsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertcankarsi/)](https://www.linkedin.com/in/mertcankarsi/)
+[![Mail Badge](https://img.shields.io/badge/-mertcankarsi@icloud.com-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:mertcankarsi@icloud.com)](mailto:mertcankarsi@icloud.com)
 
 ## ⚡ Technologies
 
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mckarsi&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mckarsi&layout=compact&hide=Rich%20Text%20Format)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mertcankarsi&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcankarsi&layout=compact&hide=Rich%20Text%20Format)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mckarsi.mckarsi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mertcankarsi.mertcankarsi)
