@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-mertcankarsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertcankarsi/)](https://www.linkedin.com/in/mertcankarsi/)
-[![Mail Badge](https://img.shields.io/badge/-mertcankarsi@icloud.com-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:mertcankarsi@icloud.com)](mailto:mertcankarsi@icloud.com)
 
 ## ⚡ Technologies
 
