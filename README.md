@@ -4,7 +4,7 @@
 
 ## ⚡ Technologies
 
-![Java](https://img.shields.io/badge/-Java-DC0000?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-DB7132?style=flat-square&logo=openjdk)
 ![Spring](https://img.shields.io/badge/-Spring-EBF2F2?style=flat-square&logo=spring)
 ![Oracle](https://img.shields.io/badge/-Oracle-DC0000?style=flat-square&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F8F9FA?style=flat-square&logo=postgresql)
